@@ -1,6 +1,6 @@
 # Scenario -  JSON Transformation
 
-## Please check the instructions to start the application from here [TestMe.md](https://github.com/fullstack-5/json-transformation/blob/main/TestMe.md)
+## Please check the instructions to start the application from here [TestMe.md](https://github.com/fullstack-5/json-transformer/blob/main/TestMe.md)
 
 
 ## Problem Statement
